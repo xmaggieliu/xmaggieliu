@@ -6,6 +6,7 @@
 - Incoming Software @ Google — `C++`
 - Backend @ Uber — `Go`
 - Full-Stack @ Royal Bank of Canada (RBC) — `TypeScript` `AngularJS` `FastAPI` `MariaDB`
+
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/xmaggieliu/) | [Email](mailto:mm2liu@uwaterloo.ca)
 
 Seeking **Fall 2024** and **Summer 2025** internships
