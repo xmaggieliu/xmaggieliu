@@ -3,10 +3,10 @@
 🌱  Rising 3rd-year studying **Computer Science @ University of Waterloo**, expecting to graduate in 2027
 
 💻  Internship experiences:
-- Incoming Software @ Google — C++
-- Backend @ Uber — Go
-- Full-Stack @ Royal Bank of Canada (RBC) — TypeScript, AngularJS, FastAPI, MariaDB
-📫 Connect with me: [LinkedIn]([url](https://www.linkedin.com/in/xmaggieliu/)) | [Email](mailto:mm2liu@uwaterloo.ca)
+- Incoming Software @ Google — `C++`
+- Backend @ Uber — `Go`
+- Full-Stack @ Royal Bank of Canada (RBC) — `TypeScript` `AngularJS` `FastAPI` `MariaDB`
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/xmaggieliu/) | [Email](mailto:mm2liu@uwaterloo.ca)
 
 Seeking **Fall 2024** and **Summer 2025** internships
 
