@@ -1,13 +1,15 @@
 ### Hi, I'm Maggie 💫
 
-🌱  Rising 3rd-year studying **Computer Science @ University of Waterloo**, expecting to graduate in 2027
+🌱  Rising 3rd-year studying **Computer Science @ University of Waterloo**, expecting to graduate in early 2027
 
 💻  Internship experiences:
 - Incoming Software @ Google — `C++`
 - Backend @ Uber — `Go`
-- Full-Stack @ Royal Bank of Canada (RBC) — `TypeScript` `AngularJS` `FastAPI` `MariaDB`
+- Full-Stack @ Royal Bank of Canada (RBC) — `TypeScript` `AngularJS` `FastAPI` `Python` `MariaDB`
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/xmaggieliu/) | [Email](mailto:mm2liu@uwaterloo.ca)
+
+[Devpost Portfolio](https://devpost.com/xmaggieliu)
 
 Seeking **Fall 2024** and **Summer 2025** internships
 
