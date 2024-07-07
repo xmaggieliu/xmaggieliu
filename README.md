@@ -1,9 +1,9 @@
 ### Hi, I'm Maggie 💫
 
-🌱  Rising 3rd-year studying **Computer Science @ University of Waterloo**, expecting to graduate in early 2027
+🌱  Rising 3rd-year studying **Computer Science @ University of Waterloo**
 
 💻  Internship experiences:
-- Incoming Software @ Google — `C++`
+- Backend @ Google — `C++`
 - Backend @ Uber — `Go`
 - Full-Stack @ Royal Bank of Canada (RBC) — `TypeScript` `AngularJS` `FastAPI` `Python` `MariaDB`
 
