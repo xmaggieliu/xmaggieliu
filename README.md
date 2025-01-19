@@ -11,7 +11,7 @@
 
 [Devpost Portfolio](https://devpost.com/xmaggieliu) features some of my hackathon projects
 
-Seeking **Summer, Fall 2025** internships
+Seeking **Fall 2025** internships
 
 Interests: AI/ML, AR/VR, Backend, Infrastructure, Data
 <!--
